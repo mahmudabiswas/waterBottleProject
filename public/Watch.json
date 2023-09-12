@@ -1,0 +1,31 @@
+[
+      {
+        "brand": "Apple",
+        "model": "Apple Watch Series 6",
+        "release_year": 2020,
+        "display_type": "OLED",
+        "water_resistance": "50 meters",
+        "heart_rate_monitor": true,
+        "price": 399.99
+      },
+      {
+        "brand": "Samsung",
+        "model": "Galaxy Watch 4",
+        "release_year": 2021,
+        "display_type": "AMOLED",
+        "water_resistance": "50 meters",
+        "heart_rate_monitor": true,
+        "price": 249.99
+      },
+      {
+        "brand": "Fitbit",
+        "model": "Versa 3",
+        "release_year": 2020,
+        "display_type": "AMOLED",
+        "water_resistance": "50 meters",
+        "heart_rate_monitor": true,
+        "price": 229.95
+      }
+    ]
+
+  
